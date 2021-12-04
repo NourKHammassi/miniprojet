@@ -1,0 +1,29 @@
+.footerprop{
+    background-color: 	#408a2d;
+    position: relative ;
+    margin-top: 540px ;
+    position: relative;
+
+
+}
+.adj{
+    margin-left: 40px;
+    margin-top: 10px;
+    
+}
+.h5{
+    margin-left: 40px;
+    margin-top: 5px;
+
+}
+.sep1{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.sep2{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 5px;
+}

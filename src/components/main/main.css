@@ -1,0 +1,19 @@
+.mainprop{
+    margin-top: 10px ;
+height:fit-content;}
+.title{
+margin-left: 500px;
+margin-top: 10px;}
+.description{
+    position: relative;
+    background-color: 	#98db88;
+    text-align:center;
+    margin-left: 150px;
+    margin-right: 550px;
+    margin-top: 50px;
+}
+.image{
+    position: relative;
+    margin-left: 1000px;
+    margin-top: -140px;
+}

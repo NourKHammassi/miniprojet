@@ -1,0 +1,17 @@
+.titre {
+    background-color: blue;
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 300px;
+    padding-left: 30px;
+    height: 400px;
+}
+.contenu{
+background-color: red;
+margin-left: 470px;
+margin-top: -400px;
+width: 1000px;}
+.listpropcnn{
+    position: relative;
+    margin-top: 55px 
+}
