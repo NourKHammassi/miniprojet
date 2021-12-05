@@ -1,4 +1,13 @@
-.listpropcnn{
+.listprop{
     position: relative ;
-    margin-top: 10px 
+    padding-left: 10px;
+    padding-top: -20px;
+    height: fit-content;
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    list-style-type: none;
+
 }

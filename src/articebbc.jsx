@@ -1,6 +1,7 @@
 import React from 'react'
 import Footer from './components/footer/footer'
 import Header from './components/header/header'
+import Newbbc from './components/newbbc/newbbc'
 
 export default function ARTICLEBBC() {
     return(
@@ -9,7 +10,7 @@ export default function ARTICLEBBC() {
                 <Header />
             </div>
            <div>
-               newbbc
+               <Newbbc />
                </div> 
                <div>
             <Footer />

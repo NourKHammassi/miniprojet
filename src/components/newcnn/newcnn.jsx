@@ -5,7 +5,7 @@ import { Image } from 'antd';
 
 export default function Newcnn() {
     return(
-        <div className="listpropcnn">
+        <div className="listprop">
             <div className="titre">
             <h1>titre</h1>
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar" viewBox="0 0 16 16">
